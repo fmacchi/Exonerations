@@ -1,6 +1,6 @@
 # 14.33 Short Project: Exonerations in the United States
 
-This project aims to explore racial disparities in the cases of wrongful convictions within the United States. 
+This project aims to explore racial disparities the cases of wrongful convictions within the United States. I explore exonerations using PCA and K-Means Clustering.
 
 ## Usage
 
